@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Окно5: QLineEdit</string>
+  </property>
+  <widget class="QLineEdit" name="qLineEdit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>110</y>
+     <width>113</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="qPushButtonBack5">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>390</y>
+     <width>150</width>
+     <height>70</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../_MY_PICTURES/leftArrow.png</normaloff>../_MY_PICTURES/leftArrow.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>170</width>
+     <height>170</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="qPushButtonExit5">
+   <property name="geometry">
+    <rect>
+     <x>530</x>
+     <y>380</y>
+     <width>81</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../_MY_PICTURES/exitLogo.png</normaloff>../_MY_PICTURES/exitLogo.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>70</width>
+     <height>70</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

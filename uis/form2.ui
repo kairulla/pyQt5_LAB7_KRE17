@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Окно2: QCheckBox</string>
+  </property>
+  <widget class="QCheckBox" name="qCheckBox">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>180</y>
+     <width>70</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>qCheckBox</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="qPushButtonNext2">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>390</y>
+     <width>150</width>
+     <height>70</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../_MY_PICTURES/rightArrow.png</normaloff>../_MY_PICTURES/rightArrow.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>170</width>
+     <height>170</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="qPushButtonBack2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>390</y>
+     <width>150</width>
+     <height>70</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../_MY_PICTURES/leftArrow.png</normaloff>../_MY_PICTURES/leftArrow.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>170</width>
+     <height>170</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Окно4: QTableWidget</string>
+  </property>
+  <widget class="QTableWidget" name="qTableWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>11</y>
+     <width>620</width>
+     <height>115</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>430</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>16777215</width>
+     <height>16777215</height>
+    </size>
+   </property>
+   <attribute name="horizontalHeaderMinimumSectionSize">
+    <number>39</number>
+   </attribute>
+   <attribute name="horizontalHeaderDefaultSectionSize">
+    <number>307</number>
+   </attribute>
+   <row>
+    <property name="text">
+     <string/>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string/>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string/>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>ОКНО</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>ВАШИ ОТВЕТЫ</string>
+    </property>
+   </column>
+   <item row="0" column="0">
+    <property name="text">
+     <string>Окно 2: QCheckBox</string>
+    </property>
+   </item>
+   <item row="1" column="0">
+    <property name="text">
+     <string>Окно 3: QListWidget</string>
+    </property>
+   </item>
+   <item row="2" column="0">
+    <property name="text">
+     <string>Окно 5: QLineEdit</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QPushButton" name="qPushButtonBack4">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>390</y>
+     <width>150</width>
+     <height>70</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../_MY_PICTURES/leftArrow.png</normaloff>../_MY_PICTURES/leftArrow.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>170</width>
+     <height>170</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="qPushButtonNext4">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>390</y>
+     <width>150</width>
+     <height>70</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../_MY_PICTURES/rightArrow.png</normaloff>../_MY_PICTURES/rightArrow.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>170</width>
+     <height>170</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

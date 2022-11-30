@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Окно1: Приветствие</string>
+  </property>
+  <widget class="QLabel" name="qLabel">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>80</y>
+     <width>341</width>
+     <height>281</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; color:#0000ff;&quot;&gt;Моя многооконная программа&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; color:#0000ff;&quot;&gt;Окно1: Приветствие&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; color:#0000ff;&quot;&gt;Окно2: QCheckBox&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; color:#0000ff;&quot;&gt;Окно3: QListWidget&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; color:#0000ff;&quot;&gt;Окно4: QTableWidget&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; color:#0000ff;&quot;&gt;Окно5: QLineEdit&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="qPushButtonNext1">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>390</y>
+     <width>150</width>
+     <height>70</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../_MY_PICTURES/rightArrow.png</normaloff>../_MY_PICTURES/rightArrow.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>170</width>
+     <height>170</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
